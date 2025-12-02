@@ -3,7 +3,7 @@
 # Account Management System  
 ### A Beautiful & Secure User Authentication App built with React + Vite
 
-Live Demo: https://data-manage-app.netlify.app/login 
+Live Demo: http://data-manage-app.netlify.app
 ---
 ### Features
 ```
@@ -25,12 +25,12 @@ Live Demo: https://data-manage-app.netlify.app/login
 ---
 ### Tech Stack
 ```
-- #Frontend: React.js + Vite
-- #Routing: React Router DOM v6
-- #Styling: Bootstrap 5 + Custom CSS
-- #Icons: Lucide React
-- #State Management: React Context API
-- #Storage: localStorage (Offline-first)
+- Frontend: React.js + Vite
+- Routing: React Router DOM v6
+- Styling: Bootstrap 5 + Custom CSS
+- Icons: Lucide React
+- State Management: React Context API
+- Storage: localStorage (Offline-first)
 ```
 ---
 ### Project Structure
