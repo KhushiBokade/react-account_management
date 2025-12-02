@@ -34,7 +34,7 @@ Live Demo: https://data-manage-app.netlify.app/login
 - **Storage**: localStorage (Offline-first)
 
 ---
-
+```
 ### Project Structure
        ```  
          my-account-app/
