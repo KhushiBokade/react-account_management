@@ -25,12 +25,12 @@ Live Demo: https://data-manage-app.netlify.app/login
 ---
 ### Tech Stack
 ```
-- *Frontend*: React.js + Vite
-- *Routing*: React Router DOM v6
-- *Styling*: Bootstrap 5 + Custom CSS
-- *Icons*: Lucide React
-- *State Management*: React Context API
-- *Storage*: localStorage (Offline-first)
+- #Frontend: React.js + Vite
+- #Routing: React Router DOM v6
+- #Styling: Bootstrap 5 + Custom CSS
+- #Icons: Lucide React
+- #State Management: React Context API
+- #Storage: localStorage (Offline-first)
 ```
 ---
 ### Project Structure
@@ -91,7 +91,7 @@ Live Demo: https://data-manage-app.netlify.app/login
    - Build command: `npm run build`
    - Publish directory: `dist`
 
-Your site will be live instantly!
+
 
 ---
 
@@ -129,25 +129,7 @@ Login Page
 - Dark mode toggle
 - Google Sign-In
 
----
 
-### Made with Love by Khushi
 
-> A clean, modern, and fully functional account management system — perfect for learning React authentication!
 
-Give a Star if you like it!  
-Feel free to fork and customize!
 
----
-### Instructions:
-```
-
-1. Create a file named `README.md` in your project root
-2. Paste the above content
-3. (Optional) Create a `screenshots/` folder and add real screenshots
-4. Push to GitHub → Deploy on Netlify → Update the live link
-
-Your project will look **super professional** on GitHub and impress everyone!
-
-Want me to generate the screenshots or make a GitHub repo banner too? Just say the word!
-```
