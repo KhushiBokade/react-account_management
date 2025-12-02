@@ -36,21 +36,26 @@ Live Demo: https://data-manage-app.netlify.app/login
 ---
 
 ### Project Structure
-
+       ```  
+         my-account-app/
+         ├── public/
+         │   └── vite.svg
+         ├── src/
+         │   ├── Components/               ← All your pages & context here
+         │   │   ├── App.jsx               ← Main routes (Login, Register, Dashboard)
+         │   │   ├── AuthContext.jsx       ← Authentication logic (register, login, etc.)
+         │   │   ├── LoginPage.jsx
+         │   │   ├── RegistrationPage.jsx
+         │   │   └── Dashboard.jsx
+         │   ├── assets/
+         │   │   ├── img-1.png             ← Your logo (for login/register)
+         │   │   └── img-2.png             ← Default profile picture
+         │   └── main.jsx                  ← Entry point (renders <App />)
+         ├── index.html
+         ├── package.json
+         ├── vite.config.js
+         └── README.md
 ```
-src/
-├── Components/
-│   ├── App.jsx              → Main routes
-│   ├── AuthContext.jsx      → Authentication logic
-│   ├── LoginPage.jsx
-│   ├── RegistrationPage.jsx
-│   └── Dashboard.jsx        → Profile management
-├── assets/
-│   ├── img-1.png            → Logo
-│   └── img-2.png            → Default profile pic
-└── main.jsx
-```
-
 ---
 
 ### How to Run Locally
