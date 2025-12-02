@@ -25,12 +25,12 @@ Live Demo: https://data-manage-app.netlify.app/login
 ---
 ### Tech Stack
 ```
-- **Frontend**: React.js + Vite
-- **Routing**: React Router DOM v6
-- **Styling**: Bootstrap 5 + Custom CSS
-- **Icons**: Lucide React
-- **State Management**: React Context API
-- **Storage**: localStorage (Offline-first)
+- *Frontend*: React.js + Vite
+- *Routing*: React Router DOM v6
+- *Styling*: Bootstrap 5 + Custom CSS
+- *Icons*: Lucide React
+- *State Management*: React Context API
+- *Storage*: localStorage (Offline-first)
 ```
 ---
 ### Project Structure
@@ -139,9 +139,9 @@ Give a Star if you like it!
 Feel free to fork and customize!
 
 ---
+### Instructions:
 ```
 
-### Instructions:
 1. Create a file named `README.md` in your project root
 2. Paste the above content
 3. (Optional) Create a `screenshots/` folder and add real screenshots
