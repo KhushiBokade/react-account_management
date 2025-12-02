@@ -12,7 +12,6 @@ Live Demo: http://data-manage-app.netlify.app
 - Complete User Authentication System
 - Register with strong password validation (8+ chars, uppercase, number, special char)
 - Gmail-only registration (@gmail.com)
-- Auto-login after registration (No double login!)
 - Secure login & logout
 - Edit Profile (Name, Email, Phone, Profile Picture)
 - Change Password (Works globally – you can log in with new password)
@@ -40,16 +39,16 @@ Live Demo: http://data-manage-app.netlify.app
          ├── public/
          │   └── vite.svg
          ├── src/
-         │   ├── Components/               ← All your pages & context here
+         │   ├── Components/               ← pages & context here
          │   │   ├── App.jsx               ← Main routes (Login, Register, Dashboard)
          │   │   ├── AuthContext.jsx       ← Authentication logic (register, login, etc.)
          │   │   ├── LoginPage.jsx
          │   │   ├── RegistrationPage.jsx
          │   │   └── Dashboard.jsx
          │   ├── assets/
-         │   │   ├── img-1.png             ← Your logo (for login/register)
-         │   │   └── img-2.png             ← Default profile picture
-         │   └── main.jsx                  ← Entry point (renders <App />)
+         │   │   ├── img-1.png            
+         │   │   └── img-2.png             
+         │   └── main.jsx                  
          ├── index.html
          ├── package.json
          ├── vite.config.js
@@ -61,7 +60,7 @@ Live Demo: http://data-manage-app.netlify.app
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/KhushiBokade/react-account_management.git
    ```
 
 2. Install dependencies
@@ -116,7 +115,8 @@ Login Page
 
  Dashboard
  ----------
- <img width="1638" height="956" alt="{E1CDB15C-2B6D-4A43-8963-559349F09F7A}" src="https://github.com/user-attachments/assets/abb54ef2-c704-4650-953f-fd0e0526505a" />
+ <img width="1781" height="953" alt="{98748FB8-D453-4C28-AF16-DF16B5A6A126}" src="https://github.com/user-attachments/assets/88e1489d-6108-45ef-a513-b8a361d8471a" />
+
 
 
 ---
